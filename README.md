@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, here is some info about me 👋
  
 
 - 🔭 I’m currently working on YouTube  
