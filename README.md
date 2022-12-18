@@ -1,17 +1,13 @@
-### Hello there, here is some info about me 👋
- 
 
-- 🔭 I’m currently working on YouTube  
-- 🔴 My YouTube Channel : [Click](https://www.youtube.com/channel/UCw5DGKfFfSVdWj2JKJ7EMQQ) 
-- 📫 How to reach me : kaizer.business@outlook.com 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/kaizerpwn) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kaizerpwn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibrahim.okic) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kaizerpwn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/kaizerpwn) 
 
-# Tools & Languages
-![vsc](https://user-images.githubusercontent.com/70588174/156886084-8a9649f0-ec65-42d5-8cec-3dca54a058be.png)
-![vs](https://user-images.githubusercontent.com/70588174/156886150-a6b55842-80ac-4636-8490-7940e34f8b56.png) 
-![moba](https://user-images.githubusercontent.com/70588174/156886199-eedf09f2-a4c7-4ca6-ab21-a05cf60014bc.png)
-![csh](https://user-images.githubusercontent.com/70588174/156886333-2e452eef-2ea2-4f7d-bf7a-c66f0f53083d.png) 
-![pawn](https://user-images.githubusercontent.com/70588174/156886601-aa55e609-b559-499d-bb3e-dc3e9cac56a0.png)
-![JS](https://user-images.githubusercontent.com/70588174/156886572-8ebe6971-6f3a-437c-84ec-292601925f5d.png)
-![php](https://user-images.githubusercontent.com/70588174/156886684-32b36749-2503-4523-b1ab-8d81d06db158.png)
-![python](https://user-images.githubusercontent.com/70588174/156886719-4c0d3be2-cc28-402c-b349-480e509840a8.png)
-![bash](https://user-images.githubusercontent.com/70588174/156886761-ba933d49-0ad5-4a23-ac28-7b6240f1a345.png)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kaizerpwn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kaizerpwn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaizerpwn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kaizerpwn&icon=9&color=0)](https://visitcount.itsvg.in)
